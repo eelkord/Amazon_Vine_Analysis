@@ -16,7 +16,12 @@ Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
  
 ## Results
 
+## Total number of reviews
 
+![Screen Shot 2022-06-29 at 2 03 26 AM](https://user-images.githubusercontent.com/100106554/176363788-d8eb94bc-b167-45f6-b734-0062a40f2bf4.png)
+
+
+![Screen Shot 2022-06-29 at 2 03 34 AM](https://user-images.githubusercontent.com/100106554/176363747-36d0a47b-53c5-4707-bb64-2fbd109cb4b4.png)
 
 
 
