@@ -18,8 +18,6 @@ Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
 
 ## Total number of reviews
 
-![Screen Shot 2022-06-29 at 2 03 26 AM](https://user-images.githubusercontent.com/100106554/176363788-d8eb94bc-b167-45f6-b734-0062a40f2bf4.png)
-
 
 ![Screen Shot 2022-06-29 at 2 03 34 AM](https://user-images.githubusercontent.com/100106554/176363747-36d0a47b-53c5-4707-bb64-2fbd109cb4b4.png)
 
@@ -41,3 +39,10 @@ Software: Google Colab Notebook, PostgreSQL 11.9, pgAdmin 4, AWS
 
 
 ![Screen Shot 2022-06-29 at 2 04 06 AM](https://user-images.githubusercontent.com/100106554/176363238-a452fb0a-4c36-4f9f-b8b2-c752e5814d4e.png)
+
+
+
+## Summary
+
+51% of the reviews in the Vine program were 5 stars reviews whereas the percentage in the non-Vine reviews is only 39%. This describes a positivity bias for reviews in the Vine program.
+Additionally we could analyse the statistical distribution (mean, median and mode) of the star rating for the Vine and non-Vine reviews.
